@@ -1,11 +1,19 @@
 ### :woman_technologist: About Me :
 
 I am a Software Developer from Turkey.
--  I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+- I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
--  Experienced on Dynamics CRM customizations, plug-in development. 
+- 3+ years experienced in C# and Microsoft based platforms.
+  
+- I have built expertise in various technologies within commercial projects in different business domains as CRM developer and .NET developer.
+  
+- Used ASP.NET, C#, and JavaScript to design and develop web-based solutions, both frontend and back end.
 
--  Integrate existing systems and services into the CRM architecture.
+- Trouble-shot and fixed any threads and bugs.
+
+- Experienced in scrum, kanban methodologies.
+
+- CI/CD Processes.
 
 - :mailbox:How to reach me: </br>
 
